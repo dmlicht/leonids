@@ -23,13 +23,20 @@ See a [demo](http://renyuanz.github.io/leonids/) hosted on GitHub.
 
 ## Quick setup
 
-`git clone https://github.com/renyuanz/leonids`
-
-`cd leonids`
-
-`jekyll server`
+    git clone https://github.com/renyuanz/leonids
+    cd leonids
+    jekyll server
 
 Check out your awesome blog at `http://localhost:4000` and Cheers!
+
+## Configure Sidebar
+
+You can configure the sidebar with `_config.yml`:
+
+    title: 
+    tagline: An awesome website
+    description: This is a slightly longer description about how cool your site is.
+    avatar: logo.png
 
 ## TODO
 
